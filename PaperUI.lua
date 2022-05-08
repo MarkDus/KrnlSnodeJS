@@ -216,3 +216,5 @@ function library:CreateButton(Parent, Name, Callback)
 
 	return TextButton
 end
+
+return library
