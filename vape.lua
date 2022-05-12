@@ -1360,7 +1360,7 @@ function lib:Window(text, preset, closebind)
 
             Label.Name = "Button"
             Label.Parent = Tab
-            Label.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+            Label.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
             Label.Size = UDim2.new(0, 363, 0, 21)
             Label.AutoButtonColor = false
             Label.Font = Enum.Font.SourceSans
