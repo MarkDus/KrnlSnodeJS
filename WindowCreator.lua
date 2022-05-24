@@ -10,7 +10,7 @@ function window:CreateFrame(Position, Size, Color, Parent)
     local frame = Instance.new("Frame", Parent);
     frame.Position = Position;
     frame.Size = Size;
-    frame.BackgroundColor = Color;
+    frame.BackgroundColor3 = Color;
     
     return frame;
 end
