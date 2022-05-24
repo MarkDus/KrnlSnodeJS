@@ -11,6 +11,8 @@ function window:CreateFrame(Position, Size, Color, Parent)
     frame.Position = Position;
     frame.Size = Size;
     frame.BackgroundColor = Color;
+    
+    return frame;
 end
 
 return window
